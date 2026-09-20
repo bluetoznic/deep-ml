@@ -9,4 +9,4 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     Returns:
         The transposed matrix of shape (n, m)
     """
-    return np.transpose(a)
+    return np.transpose(a).tolist()
