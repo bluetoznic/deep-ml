@@ -1,18 +1,8 @@
 import numpy as np
 def calculate_f1_score(y_true, y_pred):
-	"""
-	Calculate the F1 score based on true and predicted labels.
 
-	Args:
-		y_true (list): True labels (ground truth).
-		y_pred (list): Predicted labels.
-
-	Returns:
-		float: The F1 score rounded to three decimal places.
-	"""
     yt = np.array(y_true)
     yp = np.array(y_pred)
-
     tp = np.sum((yt == 1) & (yp == 1))
     fp = np.sum((yt == 0) & (yp == 1))
     fn = np.sum((yt == 1) & (yp == 0))
