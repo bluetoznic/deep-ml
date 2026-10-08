@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:16:42.761Z",
+  "generated_at": "2026-10-08T13:16:47.226Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -673,7 +673,7 @@
       "url": "https://www.deep-ml.com/problems/120",
       "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
       "first_solved_at": "2026-10-08T13:16:39.375Z",
-      "last_pushed_at": "2026-10-08T13:16:39.375Z",
+      "last_pushed_at": "2026-10-08T13:16:46.487Z",
       "language": "python",
       "lines": 16
     }
