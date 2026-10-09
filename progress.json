@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:35:54.500Z",
+  "generated_at": "2026-10-09T13:36:00.663Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -699,7 +699,7 @@
       "url": "https://www.deep-ml.com/problems/123",
       "path": "problems/0123-calculate-computational-efficiency-of-moe",
       "first_solved_at": "2026-10-09T13:35:53.148Z",
-      "last_pushed_at": "2026-10-09T13:35:53.148Z",
+      "last_pushed_at": "2026-10-09T13:35:59.494Z",
       "language": "python",
       "lines": 15
     }
