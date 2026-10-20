@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:31:02.451Z",
+  "generated_at": "2026-10-20T02:35:05.261Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -713,6 +713,19 @@
       "path": "problems/0128-dynamic-tanh-normalization-free-transformer-activation",
       "first_solved_at": "2026-10-20T02:31:00.488Z",
       "last_pushed_at": "2026-10-20T02:31:00.488Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2026-10-20T02:35:03.673Z",
+      "last_pushed_at": "2026-10-20T02:35:03.673Z",
       "language": "python",
       "lines": 6
     }
